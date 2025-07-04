@@ -1,3 +1,5 @@
+##### Noted: Currently, only experimental videos are available in this repository. The code will be updated after the paper is accepted.
+
 # An Insulator Missing Defect Detection Method Based on Aerial Images by Drones in High-Voltage Transmission Lines
 
 
