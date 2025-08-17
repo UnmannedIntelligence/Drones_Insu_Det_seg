@@ -33,8 +33,8 @@ If you find this repository useful in your research, please cite our paper once 
 
 ```text
 @article{YourCitationKey,
-  author = {...},
-  title = {...},
+  author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Yichi Yang, Youmin Zhang},
+  title = {An Insulator Missing Defect Detection Method Based on Aerial Images by Unmanned Aerial Vehicle in High-Voltage Transmission Lines},
   journal = {Drones},
   year = {2025},
   volume = {...},
@@ -49,4 +49,4 @@ If you find this repository useful in your research, please cite our paper once 
 
 For questions or collaborations, please contact:
 
-**[Yulong Zhang]** ([yulong.zhang@stu.xaut.edu.cn](mailto:email@example.com))
+**Yulong Zhang** · [yulong.zhang@stu.xaut.edu.cn](mailto:yulong.zhang@stu.xaut.edu.cn)
