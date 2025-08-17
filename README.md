@@ -32,7 +32,7 @@ Field experiments conducted in real-world scenarios further verify the effective
 If you find this repository useful in your research, please cite our paper once it is published in *Drones (MDPI)*:
 
 ```text
-@article{YourCitationKey,
+@article{Drones2025ZhangInsuDet,
   author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Yichi Yang, Youmin Zhang},
   title = {An Insulator Missing Defect Detection Method Based on Aerial Images by Unmanned Aerial Vehicle in High-Voltage Transmission Lines},
   journal = {Drones},
