@@ -1,5 +1,5 @@
 
-# An Insulator Missing Defect Detection Method Based on Aerial Images by Unmanned Aerial Vehicle in High-Voltage Transmission Lines
+# Detection of Missing Insulators in High-Voltage Transmission Lines Using UAV Images
 
 ### Repository Overview
 
@@ -34,7 +34,7 @@ If you find this repository useful in your research, please cite our paper once 
 ```text
 @article{Drones2025ZhangInsuDet,
   author = {Yulong Zhang, Xianghong Xue, Lingxia Mu, Jing Xin, Yichi Yang, Youmin Zhang},
-  title = {An Insulator Missing Defect Detection Method Based on Aerial Images by Unmanned Aerial Vehicle in High-Voltage Transmission Lines},
+  title = {Detection of Missing Insulators in High-Voltage Transmission Lines Using UAV Images},
   journal = {Drones},
   year = {2025},
   volume = {...},
